@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,48,&H00FFFFFF,&H00FFFF00,&H00000000,&H80000000,1,0,0,0,100,100,0,0,3,3,0,2,10,10,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.48,Default,,0,0,0,,{\k7}为{\k7}啥{\k7}说{\k7}它{\k7}是{\k7}总{\k7}钥{\k7}匙{\k7}呢{\k7}？{\k7}你{\k7}想{\k7}啊{\k7}，\N
+Dialogue: 0,0:00:03.48,0:00:08.45,Default,,0,0,0,,{\k5}一{\k5}部{\k5}庞{\k5}大{\k5}的{\k5}民{\k5}法{\k5}典{\k5}，{\k5}条{\k5}文{\k4}那{\k5}么{\k5}多{\k5}，{\k5}分{\k5}编{\k5}那{\k5}么{\k5}多\N
+Dialogue: 0,0:00:08.45,0:00:11.68,Default,,0,0,0,,{\k7}，{\k7}总{\k7}得{\k7}有{\k7}个{\k7}纲{\k7}领{\k7}性{\k7}的{\k7}东{\k7}西{\k7}吧{\k7}？\N
+Dialogue: 0,0:00:11.68,0:00:14.17,Default,,0,0,0,,{\k10}总{\k10}则{\k10}编{\k10}就{\k10}是{\k10}这{\k10}个{\k10}纲{\k10}领{\k10}！\N
+Dialogue: 0,0:00:14.17,0:00:19.14,Default,,0,0,0,,{\k5}它{\k5}规{\k5}定{\k5}了{\k5}咱{\k5}们{\k5}做{\k5}民{\k5}事{\k5}活{\k5}动{\k4}必{\k5}须{\k5}遵{\k5}守{\k5}的{\k5}基{\k5}本{\k5}原{\k5}则\N
+Dialogue: 0,0:00:19.14,0:00:20.39,Default,,0,0,0,,{\k20}和{\k20}一{\k20}般{\k20}规{\k20}则\N
+Dialogue: 0,0:00:20.39,0:00:24.86,Default,,0,0,0,,{\k5}，{\k5}就{\k5}像{\k5}盖{\k5}房{\k5}子{\k5}先{\k5}打{\k5}地{\k5}基{\k5}一{\k5}样{\k5}，{\k5}地{\k5}基{\k5}不{\k5}稳{\k5}，\N
+Dialogue: 0,0:00:24.86,0:00:26.35,Default,,0,0,0,,{\k16}楼{\k16}就{\k16}盖{\k16}不{\k16}高{\k16}。\N
+Dialogue: 0,0:00:26.35,0:00:28.59,Default,,0,0,0,,{\k11}所{\k11}以{\k11}，{\k11}学{\k11}好{\k11}总{\k11}则{\k11}编{\k11}，\N
+Dialogue: 0,0:00:28.59,0:00:32.82,Default,,0,0,0,,{\k5}你{\k5}就{\k5}抓{\k5}住{\k5}了{\k5}理{\k5}解{\k5}整{\k5}个{\k5}民{\k5}法{\k5}典{\k5}的{\k5}牛{\k5}鼻{\k5}子{\k5}，\N
+Dialogue: 0,0:00:32.82,0:00:37.79,Default,,0,0,0,,{\k5}能{\k5}帮{\k5}你{\k5}快{\k5}速{\k5}建{\k5}立{\k5}对{\k5}整{\k5}个{\k5}民{\k4}事{\k5}法{\k5}律{\k5}体{\k5}系{\k5}的{\k5}整{\k5}体{\k5}认\N
+Dialogue: 0,0:00:37.79,0:00:38.04,Default,,0,0,0,,{\k100}知\N
+Dialogue: 0,0:00:38.04,0:00:43.02,Default,,0,0,0,,{\k5}，{\k5}让{\k5}你{\k5}在{\k5}面{\k5}对{\k5}各{\k5}种{\k5}法{\k5}律{\k5}问{\k4}题{\k5}时{\k5}，{\k5}心{\k5}里{\k5}更{\k5}有{\k5}数{\k5}，\N
+Dialogue: 0,0:00:43.02,0:00:47.74,Default,,0,0,0,,{\k5}知{\k5}道{\k5}从{\k5}哪{\k5}个{\k5}角{\k5}度{\k5}去{\k5}思{\k5}考{\k5}，{\k5}而{\k5}不{\k5}是{\k5}一{\k5}头{\k5}雾{\k5}水{\k5}。\N

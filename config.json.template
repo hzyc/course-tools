@@ -1,0 +1,30 @@
+{
+  "aliyun": {
+    "access_key_id": "你的AccessKeyID",
+    "access_key_secret": "你的AccessKeySecret",
+    "app_key": "你的AppKey",
+    "voice": "xiaoyun",
+    "speech_rate": 0,
+    "pitch_rate": 0,
+    "format": "wav",
+    "sample_rate": 24000,
+    "asr_app_key": "你的ASR AppKey"
+  },
+  "video": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "quality": "high"
+  },
+  "subtitle": {
+    "font_size": 48,
+    "font_color": "white",
+    "background_color": "black",
+    "position": "bottom",
+    "margin_bottom": 60
+  },
+  "transition": {
+    "effect": "fade",
+    "duration": 0.5
+  }
+}

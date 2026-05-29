@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,48,&H00FFFFFF,&H00FFFF00,&H00000000,&H80000000,1,0,0,0,100,100,0,0,3,3,0,2,10,10,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.52,Default,,0,0,0,,{\k7}咱{\k7}们{\k7}今{\k7}天{\k7}就{\k7}来{\k7}聊{\k7}聊{\k7}民{\k7}法{\k7}典{\k7}里{\k7}头{\k7}，\N
+Dialogue: 0,0:00:03.52,0:00:06.55,Default,,0,0,0,,{\k8}跟{\k8}咱{\k8}们{\k8}每{\k8}个{\k8}人{\k8}都{\k8}息{\k8}息{\k8}相{\k8}关{\k8}，\N
+Dialogue: 0,0:00:06.55,0:00:10.33,Default,,0,0,0,,{\k6}但{\k6}又{\k6}常{\k6}常{\k6}容{\k6}易{\k6}踩{\k6}坑{\k6}的{\k6}侵{\k6}权{\k6}责{\k6}任{\k6}编{\k6}。\N
+Dialogue: 0,0:00:10.33,0:00:11.34,Default,,0,0,0,,{\k25}说{\k25}白{\k25}了{\k25}，\N
+Dialogue: 0,0:00:11.34,0:00:16.13,Default,,0,0,0,,{\k5}就{\k5}是{\k5}当{\k5}你{\k5}不{\k5}小{\k5}心{\k5}或{\k5}者{\k5}不{\k5}小{\k5}心{\k5}地{\k5}伤{\k5}害{\k5}到{\k5}别{\k5}人{\k5}，\N
+Dialogue: 0,0:00:16.13,0:00:20.41,Default,,0,0,0,,{\k5}或{\k5}者{\k5}被{\k5}别{\k5}人{\k5}伤{\k5}害{\k5}了{\k5}，{\k5}这{\k5}事{\k5}儿{\k5}该{\k5}怎{\k5}么{\k5}算{\k5}，\N
+Dialogue: 0,0:00:20.41,0:00:21.67,Default,,0,0,0,,{\k20}谁{\k20}该{\k20}负{\k20}责{\k20}。\N

@@ -1,0 +1,11 @@
+python-pptx>=0.6.21
+requests>=2.28.0
+Pillow>=9.0.0
+pywin32>=300; sys_platform == "win32"
+openai-whisper>=20231117
+torch>=2.0.0; sys_platform != "win32"
+torch>=2.0.0; sys_platform == "win32"
+paddleocr>=2.7.0
+paddlepaddle>=2.5.0; sys_platform == "win32"
+paddlepaddle>=2.5.0; sys_platform != "win32"
+easyocr>=1.7.0

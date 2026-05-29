@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"D:\\\\code\\\\PPTtovideo\" -Depth 0)",
+      "Bash(Select-Object Name, PSIsContainer)",
+      "Bash(Get-ChildItem -Recurse -Depth 2)",
+      "Bash(Select-Object Mode, Name)",
+      "Bash(Format-Table -AutoSize)"
+    ]
+  }
+}

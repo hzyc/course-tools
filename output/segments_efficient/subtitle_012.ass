@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,48,&H00FFFFFF,&H00FFFF00,&H00000000,&H80000000,1,0,0,0,100,100,0,0,3,3,0,2,10,10,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.25,Default,,0,0,0,,{\k5}今{\k5}天{\k5}的{\k5}分{\k5}享{\k5}就{\k5}到{\k5}这{\k5}里{\k5}。{\k5}希{\k4}望{\k5}通{\k5}过{\k5}今{\k5}天{\k5}的{\k5}讲{\k5}解{\k5}，\N
+Dialogue: 0,0:00:05.25,0:00:09.99,Default,,0,0,0,,{\k5}大{\k5}家{\k5}对{\k5}民{\k5}法{\k5}典{\k5}总{\k5}则{\k5}编{\k5}有{\k5}一{\k5}个{\k5}初{\k5}步{\k5}的{\k5}认{\k5}识{\k5}。\N
+Dialogue: 0,0:00:09.99,0:00:15.25,Default,,0,0,0,,{\k5}记{\k5}住{\k5}，{\k5}总{\k5}则{\k5}编{\k5}是{\k5}民{\k5}法{\k5}典{\k5}的{\k4}基{\k5}石{\k5}，{\k5}理{\k5}解{\k5}了{\k5}总{\k5}则{\k5}编\N
+Dialogue: 0,0:00:15.25,0:00:19.71,Default,,0,0,0,,{\k5}，{\k5}才{\k5}能{\k5}更{\k5}好{\k5}地{\k5}学{\k5}习{\k5}和{\k5}运{\k5}用{\k5}整{\k5}个{\k5}民{\k5}法{\k5}典{\k5}。\N
+Dialogue: 0,0:00:19.71,0:00:24.45,Default,,0,0,0,,{\k5}希{\k5}望{\k5}各{\k5}位{\k5}同{\k5}学{\k5}和{\k5}朋{\k5}友{\k5}们{\k5}，{\k5}都{\k5}能{\k5}学{\k5}好{\k5}民{\k5}法{\k5}，\N
+Dialogue: 0,0:00:24.45,0:00:29.71,Default,,0,0,0,,{\k5}用{\k5}好{\k5}民{\k5}法{\k5}，{\k5}守{\k5}护{\k5}好{\k5}自{\k5}己{\k5}的{\k4}美{\k5}好{\k5}生{\k5}活{\k5}！{\k5}谢{\k5}谢{\k5}大{\k5}家\N
+Dialogue: 0,0:00:29.71,0:00:29.97,Default,,0,0,0,,{\k100}！\N
