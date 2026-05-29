@@ -60,3 +60,4 @@ Thumbs.db
 
 # Video files in output (optional - comment out if you want to keep videos)
 output/*.mp4
+config.json
