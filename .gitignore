@@ -54,10 +54,23 @@ Thumbs.db
 *.mkv
 *.mov
 *.pptx
+*.wav
 
 # Keep skills directory
 !.trae/skills/
 
-# Video files in output (optional - comment out if you want to keep videos)
+# Temporary Office files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# Output directory - keep structure but exclude videos and audio
+output/segments_efficient/
 output/*.mp4
+output/*.wav
+
+# Config file (sensitive)
 config.json
+
+# Exclude temporary promotion documents
+skills_promotion/~$*.md
